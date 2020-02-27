@@ -1,2 +1,2 @@
-# New primeiro-rep-padawan
+# Meu primeiro repositório GitHub - Padawan
 JS 
